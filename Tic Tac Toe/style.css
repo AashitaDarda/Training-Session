@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+}
+.box{
+    height:60px;
+    width:75px;
+    margin-left: -5px;
+    border: 1px solid black;
+    font-size: 65px;
+    text-align: center;
+}
+#Reset{
+    margin-left: 140px;
+    width: 100px;
+    height: 37px;
+}
+#result{
+    color:blue;
+    font-size: 20px;
+}

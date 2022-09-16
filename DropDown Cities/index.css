@@ -1,0 +1,20 @@
+#container{
+    text-align: center;
+    font-size: 15px;
+    background-color: #835959;
+    margin-top: 50px;
+    /* margin-bottom: 10px; */
+    margin-right: 50px;
+    margin-left: 50px; 
+}
+.dropdownlist{
+    /* margin: 10px; */
+    padding: 5px;
+}
+#showinfo{
+    /* color: blue; */
+    width: 100px;
+    color: #000c96;
+    font-size: 15px;
+    /* background: gray; */
+}
